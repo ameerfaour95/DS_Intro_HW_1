@@ -1,3 +1,4 @@
+#Ameer Faour - 316540467
 def my_func(x1,x2,x3):
     numerator=float((x1+x2+x3)*(x2+x3)*x3)
     denominator=float(x1+x2+x3)
